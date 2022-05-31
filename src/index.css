@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+#tab1,#tab2,#tab3{
+  width: 20%;
+  margin: 1%;
+}
+#ta{
+  width: 20%;
+  position:relative;
+  left: 50% ;
+}
